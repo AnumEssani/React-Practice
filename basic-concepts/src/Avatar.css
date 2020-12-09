@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi');
+
+.avatar-style img{
+    width: 150px;
+    height: 150px;
+    
+
+}
+
+.main-page{
+    width:90%;
+    height: 100vh;
+    margin: auto;
+    font-family: 'Gugi', cursive;
+}
+
+.main-page h1{
+    margin:0;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+
